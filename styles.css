@@ -1,9 +1,17 @@
 
 /* Your CSS Code here. */
 .holder {
-    display: flex;
+    /* display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
+    flex-wrap: wrap; */
+	 display: flex;               /* Enable Flexbox layout */
+  flex-wrap: wrap;             /* Allow items to wrap onto the next line when they overflow */
+  justify-content: center;     /* Center items horizontally within the container */
+  align-items: flex-start;     /* Align items to the start of the cross-axis (vertical) */
+  width: 100%;                 /* Full width of the parent container */
+  margin: 0;                   /* Remove default margin */
+  padding: 0;                  /* Remove default padding */
+  box-sizing: border-box;  
 }
 .item1 {
   width: 100px; /* adjust as per your requirement */
