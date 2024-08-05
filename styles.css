@@ -1,2 +1,43 @@
 
 /* Your CSS Code here. */
+.holder {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.item1 {
+  width: 100px; /* adjust as per your requirement */
+    height: 100px; /* adjust as per your requirement */
+    background-color: green; /* adjust as per your requirement */
+}
+
+.item2 {
+    width: 100px; /* adjust as per your requirement */
+    height: 100px; /* adjust as per your requirement */
+    background-color: green; /* adjust as per your requirement */
+}
+.item3 {
+    width: 100px; /* adjust as per your requirement */
+    height: 100px; /* adjust as per your requirement */
+    background-color: green; /* adjust as per your requirement */
+}
+.item4 {
+    width: 100px; /* adjust as per your requirement */
+    height: 100px; /* adjust as per your requirement */
+    background-color: green; /* adjust as per your requirement */
+}
+.item5 {
+    width: 100px; /* adjust as per your requirement */
+    height: 100px; /* adjust as per your requirement */
+    background-color: green; /* adjust as per your requirement */
+}
+.item6 {
+    width: 100px; /* adjust as per your requirement */
+    height: 100px; /* adjust as per your requirement */
+    background-color:red; /* adjust as per your requirement */
+}
+.item7 {
+    width: 100px; /* adjust as per your requirement */
+    height: 100px; /* adjust as per your requirement */
+    background-color: blue; /* adjust as per your requirement */
+}
